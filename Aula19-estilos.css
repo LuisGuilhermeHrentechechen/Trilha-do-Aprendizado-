@@ -97,3 +97,13 @@ span{
     align-items: center;
     z-index: 2;
 }
+#esquerda{
+    background-color: royalblue;
+    width: 100px;
+    height: 100px;
+}
+#direita{
+    background-color: rgb(71, 139, 108);
+    width: 100px;
+    height: 100px;
+}

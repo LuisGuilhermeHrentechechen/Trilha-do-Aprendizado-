@@ -1,0 +1,47 @@
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 10px;
+    
+}
+ul{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h1{
+    font-size: large;
+    
+}
+div.biografia{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div.objetivo{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div.contato1{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gray;
+    color: black;
+    padding: 6px;
+    float: left;
+}
+div.contato2{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gray;
+    color: black;
+    padding: 6px;
+    float: left;
+    margin-left: 550px;
+    margin-right: 550px;
+}
+div.contato3{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gray;
+    color: black;
+    padding: 6px;
+}

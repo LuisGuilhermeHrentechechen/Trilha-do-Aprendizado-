@@ -1,9 +1,9 @@
 body{
-    background-color: rgb(255, 243, 228);
+    background-color: rgb(211, 236, 167);
 }
 
 div{
-    background-color:rgb(107, 79, 79);
+    background-color:rgb(199, 177, 152);
     margin:10px;
 }
 span{
@@ -12,14 +12,14 @@ span{
 h1#principal{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align:center;
-    color: rgb(255, 243, 228);
-    background-color:rgb(72, 52, 52);
+    color: rgb(211, 236, 167);
+    background-color:whitesmoke;
     border:2px solid black;
 }
 div.agrupamento{
     font-family:Arial, Helvetica, sans-serif;
     color: rgb(72, 52, 52);
-    background-color:rgb(238, 214, 196);
+    background-color:rgb(242, 245, 200);
     border: 2px solid rgb(72, 52, 52);
     margin: 20px;
     padding: 16px;
@@ -46,7 +46,7 @@ div.agrupamento{
 .personalizado{
     font-family:Arial, Helvetica, sans-serif;
     color: rgb(72, 52, 52);
-    background-color:rgb(238, 214, 196);
+    background-color:rgb(242, 245, 200);
     border:2px solid rgb(107, 79, 79);
     padding: 10px;
     margin: 10px;
@@ -61,12 +61,11 @@ div.agrupamento{
 }
 .pseudo:hover > span{
     display:grid;
-    background-color:rgb(255, 243, 228);
+    background-color:rgb(211, 236, 167);
 }
 h3::selection{
-    color:rgb(255, 243, 228);
-    background:rgb(107, 79, 79)
-    ;
+    color:rgb(211, 236, 167);
+    background:rgb(107, 79, 79);
 }
 p::first-letter{
     color:rgb(72, 52, 52);

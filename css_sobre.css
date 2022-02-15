@@ -9,16 +9,19 @@ ul{
 
 }
 h1{
-    font-size: large;
+    font-size: 24px;
+    
     
 }
 div.biografia{
     font-size: medium;
     font-family: Arial, Helvetica, sans-serif;
+    margin-left: 85px;
 }
 div.objetivo{
     font-size: medium;
     font-family: Arial, Helvetica, sans-serif;
+    margin-left: 85px;
 }
 div.contato1{
     font-size: medium;
@@ -44,4 +47,14 @@ div.contato3{
     background-color: gray;
     color: black;
     padding: 6px;
+}
+div.curso{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 85px; 
+}
+div.projeto{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 85px;  
 }

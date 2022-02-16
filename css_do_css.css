@@ -1,0 +1,34 @@
+body{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    background-color: rgb( 154, 0, 26);
+    color: orangered;
+    text-align: center;
+    padding: 15px;
+    text-shadow: 2px 2px 2px black, -2px 2px 2px black, 2px -2px 2px black, -2px -2px 2px black;
+    font-size: 36px;
+    border-radius: 6px;
+    border: 3px solid black;
+}
+h2{
+    color: orangered;
+    text-shadow: 2px 2px 2px black, -2px 2px 2px black, 2px -2px 2px black, -2px -2px 2px black;
+    font-size: 30px;
+}
+h3{
+    color: orangered;
+    font-size: 24px;
+    text-shadow: 2px 2px 2px black, -2px 2px 2px black, 2px -2px 2px black, -2px -2px 2px black;
+    margin-left: 40px; 
+}
+.p{
+    margin-left: 20px;    
+}
+p{
+    margin-left: 60px;
+}
+figure{
+    margin-left: 60px;
+}

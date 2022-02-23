@@ -66,3 +66,21 @@ div.box3{
     left: 828px;
 
 }
+.navegacao{
+    float: right;
+    display: block;
+    text-decoration: none;
+    text-align: right;
+    padding: 10px 10px;
+    border-radius: 6px 6px;
+    background-color: rgb(70, 78, 46);
+    border: 2px solid black;
+
+}
+.navegacao{
+    position: absolute;
+    width: 80px;
+    height: 40px;
+    left: 951px;
+    top: 138px;
+} 
